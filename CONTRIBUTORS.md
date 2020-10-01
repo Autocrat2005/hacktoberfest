@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yash Shukla](https://github.com/Autocrat2005)
+- Place: India
+- Bio: Software Engineer
+- Github: [Autocrat2005](https://github.com/Autocrat2005)
